@@ -1,0 +1,2 @@
+offensive_playtype_model takes the following args in the following order
+yardline, game seconds remaining, down, yards to go, possession team timeouts, defensive team timeouts, possession score, defense team score
