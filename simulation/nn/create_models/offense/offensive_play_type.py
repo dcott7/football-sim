@@ -1,4 +1,4 @@
-from offensive_preprocess import *
+from simulation.nn.create_models.offense.offensive_play_preprocess import *
 
 model = keras.Sequential([
     layers.Input(shape = (X_train_scaled.shape[1],)),
