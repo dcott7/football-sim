@@ -1,0 +1,1000 @@
+Yard Line: 5
+Game Seconds Remaining: 11
+Down: 4
+Yards to Go: 3
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 17
+Defense Score: 17
+Prediction: field_goal
+----------
+Yard Line: 43
+Game Seconds Remaining: 102
+Down: 4
+Yards to Go: 10
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 7
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 13
+Game Seconds Remaining: 28
+Down: 4
+Yards to Go: 9
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 10
+Defense Score: 17
+Prediction: pass
+----------
+Yard Line: 96
+Game Seconds Remaining: 14
+Down: 4
+Yards to Go: 22
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 1
+Possession Score: 21
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 34
+Game Seconds Remaining: 1
+Down: 4
+Yards to Go: 9
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 0
+Possession Score: 21
+Defense Score: 17
+Prediction: field_goal
+----------
+Yard Line: 18
+Game Seconds Remaining: 76
+Down: 4
+Yards to Go: 20
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 13
+Defense Score: 21
+Prediction: field_goal
+----------
+Yard Line: 94
+Game Seconds Remaining: 65
+Down: 4
+Yards to Go: 6
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 10
+Defense Score: 7
+Prediction: punt
+----------
+Yard Line: 84
+Game Seconds Remaining: 74
+Down: 4
+Yards to Go: 13
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 10
+Defense Score: 7
+Prediction: punt
+----------
+Yard Line: 64
+Game Seconds Remaining: 32
+Down: 4
+Yards to Go: 1
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 1
+Possession Score: 14
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 43
+Game Seconds Remaining: 105
+Down: 4
+Yards to Go: 14
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 3
+Defense Score: 13
+Prediction: pass
+----------
+Yard Line: 85
+Game Seconds Remaining: 72
+Down: 4
+Yards to Go: 8
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 0
+Possession Score: 17
+Defense Score: 17
+Prediction: punt
+----------
+Yard Line: 3
+Game Seconds Remaining: 15
+Down: 4
+Yards to Go: 8
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 10
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 98
+Game Seconds Remaining: 120
+Down: 4
+Yards to Go: 20
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 3
+Defense Score: 21
+Prediction: punt
+----------
+Yard Line: 63
+Game Seconds Remaining: 31
+Down: 4
+Yards to Go: 12
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 7
+Defense Score: 10
+Prediction: pass
+----------
+Yard Line: 49
+Game Seconds Remaining: 31
+Down: 4
+Yards to Go: 18
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 21
+Defense Score: 21
+Prediction: punt
+----------
+Yard Line: 84
+Game Seconds Remaining: 40
+Down: 4
+Yards to Go: 19
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 1
+Possession Score: 14
+Defense Score: 13
+Prediction: punt
+----------
+Yard Line: 25
+Game Seconds Remaining: 99
+Down: 4
+Yards to Go: 6
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 14
+Defense Score: 7
+Prediction: field_goal
+----------
+Yard Line: 16
+Game Seconds Remaining: 101
+Down: 4
+Yards to Go: 25
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 14
+Defense Score: 7
+Prediction: field_goal
+----------
+Yard Line: 13
+Game Seconds Remaining: 30
+Down: 4
+Yards to Go: 2
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 1
+Possession Score: 13
+Defense Score: 14
+Prediction: field_goal
+----------
+Yard Line: 98
+Game Seconds Remaining: 89
+Down: 4
+Yards to Go: 16
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 1
+Possession Score: 17
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 54
+Game Seconds Remaining: 38
+Down: 4
+Yards to Go: 12
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 10
+Defense Score: 7
+Prediction: punt
+----------
+Yard Line: 19
+Game Seconds Remaining: 39
+Down: 4
+Yards to Go: 16
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 13
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 39
+Game Seconds Remaining: 61
+Down: 4
+Yards to Go: 19
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 21
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 77
+Game Seconds Remaining: 47
+Down: 4
+Yards to Go: 2
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 10
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 63
+Game Seconds Remaining: 26
+Down: 4
+Yards to Go: 2
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 3
+Defense Score: 10
+Prediction: pass
+----------
+Yard Line: 15
+Game Seconds Remaining: 84
+Down: 4
+Yards to Go: 1
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 13
+Defense Score: 3
+Prediction: run
+----------
+Yard Line: 60
+Game Seconds Remaining: 14
+Down: 4
+Yards to Go: 18
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 14
+Defense Score: 13
+Prediction: punt
+----------
+Yard Line: 48
+Game Seconds Remaining: 73
+Down: 4
+Yards to Go: 21
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 13
+Defense Score: 13
+Prediction: pass
+----------
+Yard Line: 7
+Game Seconds Remaining: 120
+Down: 4
+Yards to Go: 13
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 10
+Defense Score: 17
+Prediction: field_goal
+----------
+Yard Line: 12
+Game Seconds Remaining: 79
+Down: 4
+Yards to Go: 14
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 3
+Defense Score: 7
+Prediction: field_goal
+----------
+Yard Line: 50
+Game Seconds Remaining: 50
+Down: 4
+Yards to Go: 22
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 3
+Defense Score: 7
+Prediction: pass
+----------
+Yard Line: 12
+Game Seconds Remaining: 52
+Down: 4
+Yards to Go: 9
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 7
+Defense Score: 3
+Prediction: field_goal
+----------
+Yard Line: 93
+Game Seconds Remaining: 47
+Down: 4
+Yards to Go: 2
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 1
+Possession Score: 13
+Defense Score: 14
+Prediction: punt
+----------
+Yard Line: 54
+Game Seconds Remaining: 45
+Down: 4
+Yards to Go: 24
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 14
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 56
+Game Seconds Remaining: 110
+Down: 4
+Yards to Go: 9
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 14
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 83
+Game Seconds Remaining: 113
+Down: 4
+Yards to Go: 25
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 14
+Defense Score: 13
+Prediction: punt
+----------
+Yard Line: 4
+Game Seconds Remaining: 23
+Down: 4
+Yards to Go: 22
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 21
+Defense Score: 14
+Prediction: field_goal
+----------
+Yard Line: 26
+Game Seconds Remaining: 70
+Down: 4
+Yards to Go: 15
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 14
+Defense Score: 17
+Prediction: field_goal
+----------
+Yard Line: 31
+Game Seconds Remaining: 33
+Down: 4
+Yards to Go: 6
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 7
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 15
+Game Seconds Remaining: 31
+Down: 4
+Yards to Go: 9
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 13
+Defense Score: 7
+Prediction: field_goal
+----------
+Yard Line: 67
+Game Seconds Remaining: 65
+Down: 4
+Yards to Go: 23
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 0
+Possession Score: 3
+Defense Score: 7
+Prediction: pass
+----------
+Yard Line: 98
+Game Seconds Remaining: 63
+Down: 4
+Yards to Go: 19
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 3
+Defense Score: 21
+Prediction: punt
+----------
+Yard Line: 48
+Game Seconds Remaining: 20
+Down: 4
+Yards to Go: 3
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 13
+Defense Score: 17
+Prediction: pass
+----------
+Yard Line: 19
+Game Seconds Remaining: 90
+Down: 4
+Yards to Go: 25
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 21
+Defense Score: 21
+Prediction: field_goal
+----------
+Yard Line: 27
+Game Seconds Remaining: 103
+Down: 4
+Yards to Go: 2
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 14
+Defense Score: 13
+Prediction: field_goal
+----------
+Yard Line: 35
+Game Seconds Remaining: 33
+Down: 4
+Yards to Go: 16
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 2
+Possession Score: 13
+Defense Score: 13
+Prediction: field_goal
+----------
+Yard Line: 74
+Game Seconds Remaining: 88
+Down: 4
+Yards to Go: 8
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 10
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 35
+Game Seconds Remaining: 72
+Down: 4
+Yards to Go: 24
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 14
+Defense Score: 14
+Prediction: field_goal
+----------
+Yard Line: 76
+Game Seconds Remaining: 109
+Down: 4
+Yards to Go: 6
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 1
+Possession Score: 7
+Defense Score: 7
+Prediction: punt
+----------
+Yard Line: 64
+Game Seconds Remaining: 18
+Down: 4
+Yards to Go: 3
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 7
+Defense Score: 13
+Prediction: pass
+----------
+Yard Line: 66
+Game Seconds Remaining: 102
+Down: 4
+Yards to Go: 11
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 10
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 40
+Game Seconds Remaining: 60
+Down: 4
+Yards to Go: 10
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 10
+Defense Score: 14
+Prediction: pass
+----------
+Yard Line: 49
+Game Seconds Remaining: 13
+Down: 4
+Yards to Go: 3
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 21
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 20
+Game Seconds Remaining: 116
+Down: 4
+Yards to Go: 5
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 21
+Defense Score: 10
+Prediction: field_goal
+----------
+Yard Line: 53
+Game Seconds Remaining: 47
+Down: 4
+Yards to Go: 4
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 10
+Defense Score: 14
+Prediction: pass
+----------
+Yard Line: 64
+Game Seconds Remaining: 35
+Down: 4
+Yards to Go: 5
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 21
+Defense Score: 17
+Prediction: punt
+----------
+Yard Line: 7
+Game Seconds Remaining: 108
+Down: 4
+Yards to Go: 4
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 13
+Defense Score: 13
+Prediction: field_goal
+----------
+Yard Line: 97
+Game Seconds Remaining: 59
+Down: 4
+Yards to Go: 3
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 13
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 78
+Game Seconds Remaining: 41
+Down: 4
+Yards to Go: 18
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 14
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 79
+Game Seconds Remaining: 26
+Down: 4
+Yards to Go: 23
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 10
+Defense Score: 7
+Prediction: punt
+----------
+Yard Line: 80
+Game Seconds Remaining: 24
+Down: 4
+Yards to Go: 8
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 10
+Defense Score: 7
+Prediction: punt
+----------
+Yard Line: 9
+Game Seconds Remaining: 65
+Down: 4
+Yards to Go: 4
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 3
+Defense Score: 7
+Prediction: pass
+----------
+Yard Line: 42
+Game Seconds Remaining: 109
+Down: 4
+Yards to Go: 19
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 1
+Possession Score: 3
+Defense Score: 17
+Prediction: pass
+----------
+Yard Line: 5
+Game Seconds Remaining: 120
+Down: 4
+Yards to Go: 4
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 0
+Possession Score: 21
+Defense Score: 7
+Prediction: field_goal
+----------
+Yard Line: 6
+Game Seconds Remaining: 93
+Down: 4
+Yards to Go: 20
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 1
+Possession Score: 3
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 63
+Game Seconds Remaining: 45
+Down: 4
+Yards to Go: 10
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 21
+Defense Score: 13
+Prediction: punt
+----------
+Yard Line: 34
+Game Seconds Remaining: 57
+Down: 4
+Yards to Go: 15
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 7
+Defense Score: 7
+Prediction: field_goal
+----------
+Yard Line: 56
+Game Seconds Remaining: 4
+Down: 4
+Yards to Go: 14
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 7
+Defense Score: 13
+Prediction: pass
+----------
+Yard Line: 86
+Game Seconds Remaining: 61
+Down: 4
+Yards to Go: 8
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 7
+Defense Score: 14
+Prediction: pass
+----------
+Yard Line: 32
+Game Seconds Remaining: 46
+Down: 4
+Yards to Go: 16
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 10
+Defense Score: 7
+Prediction: field_goal
+----------
+Yard Line: 10
+Game Seconds Remaining: 1
+Down: 4
+Yards to Go: 10
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 3
+Defense Score: 17
+Prediction: pass
+----------
+Yard Line: 58
+Game Seconds Remaining: 103
+Down: 4
+Yards to Go: 25
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 17
+Defense Score: 21
+Prediction: punt
+----------
+Yard Line: 23
+Game Seconds Remaining: 70
+Down: 4
+Yards to Go: 1
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 13
+Defense Score: 3
+Prediction: field_goal
+----------
+Yard Line: 62
+Game Seconds Remaining: 115
+Down: 4
+Yards to Go: 20
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 21
+Defense Score: 14
+Prediction: punt
+----------
+Yard Line: 69
+Game Seconds Remaining: 51
+Down: 4
+Yards to Go: 19
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 13
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 87
+Game Seconds Remaining: 57
+Down: 4
+Yards to Go: 7
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 13
+Defense Score: 13
+Prediction: punt
+----------
+Yard Line: 15
+Game Seconds Remaining: 116
+Down: 4
+Yards to Go: 19
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 0
+Possession Score: 3
+Defense Score: 14
+Prediction: pass
+----------
+Yard Line: 15
+Game Seconds Remaining: 101
+Down: 4
+Yards to Go: 13
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 0
+Possession Score: 7
+Defense Score: 13
+Prediction: pass
+----------
+Yard Line: 79
+Game Seconds Remaining: 13
+Down: 4
+Yards to Go: 16
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 14
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 13
+Game Seconds Remaining: 35
+Down: 4
+Yards to Go: 10
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 14
+Defense Score: 3
+Prediction: field_goal
+----------
+Yard Line: 65
+Game Seconds Remaining: 46
+Down: 4
+Yards to Go: 1
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 3
+Defense Score: 21
+Prediction: run
+----------
+Yard Line: 5
+Game Seconds Remaining: 87
+Down: 4
+Yards to Go: 15
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 1
+Possession Score: 10
+Defense Score: 10
+Prediction: field_goal
+----------
+Yard Line: 84
+Game Seconds Remaining: 83
+Down: 4
+Yards to Go: 18
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 1
+Possession Score: 14
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 85
+Game Seconds Remaining: 18
+Down: 4
+Yards to Go: 9
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 17
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 62
+Game Seconds Remaining: 60
+Down: 4
+Yards to Go: 12
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 17
+Defense Score: 21
+Prediction: pass
+----------
+Yard Line: 55
+Game Seconds Remaining: 110
+Down: 4
+Yards to Go: 21
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 17
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 56
+Game Seconds Remaining: 3
+Down: 4
+Yards to Go: 12
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 7
+Defense Score: 17
+Prediction: pass
+----------
+Yard Line: 60
+Game Seconds Remaining: 54
+Down: 4
+Yards to Go: 20
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 10
+Defense Score: 7
+Prediction: punt
+----------
+Yard Line: 47
+Game Seconds Remaining: 109
+Down: 4
+Yards to Go: 5
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 1
+Possession Score: 7
+Defense Score: 3
+Prediction: punt
+----------
+Yard Line: 48
+Game Seconds Remaining: 60
+Down: 4
+Yards to Go: 22
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 3
+Defense Score: 7
+Prediction: pass
+----------
+Yard Line: 71
+Game Seconds Remaining: 98
+Down: 4
+Yards to Go: 12
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 13
+Defense Score: 7
+Prediction: punt
+----------
+Yard Line: 33
+Game Seconds Remaining: 110
+Down: 4
+Yards to Go: 10
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 2
+Possession Score: 14
+Defense Score: 13
+Prediction: field_goal
+----------
+Yard Line: 53
+Game Seconds Remaining: 66
+Down: 4
+Yards to Go: 1
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 14
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 88
+Game Seconds Remaining: 81
+Down: 4
+Yards to Go: 13
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 3
+Possession Score: 10
+Defense Score: 17
+Prediction: pass
+----------
+Yard Line: 37
+Game Seconds Remaining: 37
+Down: 4
+Yards to Go: 18
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 0
+Possession Score: 17
+Defense Score: 13
+Prediction: punt
+----------
+Yard Line: 91
+Game Seconds Remaining: 45
+Down: 4
+Yards to Go: 3
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 10
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 59
+Game Seconds Remaining: 116
+Down: 4
+Yards to Go: 22
+Possession Team Timeouts: 0
+Defensive Team Timeouts: 3
+Possession Score: 10
+Defense Score: 10
+Prediction: punt
+----------
+Yard Line: 63
+Game Seconds Remaining: 41
+Down: 4
+Yards to Go: 8
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 0
+Possession Score: 7
+Defense Score: 10
+Prediction: pass
+----------
+Yard Line: 14
+Game Seconds Remaining: 71
+Down: 4
+Yards to Go: 13
+Possession Team Timeouts: 2
+Defensive Team Timeouts: 2
+Possession Score: 13
+Defense Score: 7
+Prediction: field_goal
+----------
+Yard Line: 68
+Game Seconds Remaining: 24
+Down: 4
+Yards to Go: 14
+Possession Team Timeouts: 1
+Defensive Team Timeouts: 3
+Possession Score: 13
+Defense Score: 7
+Prediction: punt
+----------

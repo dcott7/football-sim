@@ -41,4 +41,6 @@ pbp_curr_year['def_coach'] = np.where(
              ''))
 
 # drop unwanted cols
-pbp_curr_year = pbp_curr_year.drop(comlumns = ['posteam_type','home_coach','away_coach'])
+pbp_curr_year = pbp_curr_year.drop(columns=['posteam_type', 'home_coach', 'away_coach'])
+
+pbp_curr_year.to_csv('data/api/neural_net_data/pbp_2001_2023.csv')
